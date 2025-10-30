@@ -6,3 +6,4 @@
 
 #메뉴(header)
 1. 전제적인 메뉴 레이아웃을 구성한다.
+2. 메뉴 버튼 Home, About, Contact를 구성한다.
